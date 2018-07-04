@@ -1,6 +1,6 @@
 # Noblue color scheme for [tig](https://github.com/jonas/tig)
 
-Color scheme for [tig](https://github.com/jonas/tig) very close to the original one, just without the dark blue color (which is hard to read on a dark background). Instead, cyan was used.
+Color scheme for [tig](https://github.com/jonas/tig) very close to the original one, but without the dark blue color (which is hard to read on a dark background). Instead, magenta was used.
 
 ![sample](/tig_noblue_theme.png)
 
